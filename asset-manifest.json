@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/scheduleSeoul/static/css/main.5181ab6a.css",
-    "main.js": "/scheduleSeoul/static/js/main.e38e5868.js",
+    "main.js": "/scheduleSeoul/static/js/main.e73143cb.js",
     "index.html": "/scheduleSeoul/index.html",
     "main.5181ab6a.css.map": "/scheduleSeoul/static/css/main.5181ab6a.css.map",
-    "main.e38e5868.js.map": "/scheduleSeoul/static/js/main.e38e5868.js.map"
+    "main.e73143cb.js.map": "/scheduleSeoul/static/js/main.e73143cb.js.map"
   },
   "entrypoints": [
     "static/css/main.5181ab6a.css",
-    "static/js/main.e38e5868.js"
+    "static/js/main.e73143cb.js"
   ]
 }
