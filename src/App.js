@@ -12,13 +12,13 @@ import "./input.css";
 
 function App() {
   return (
-      <HashRouter>
+      <BrowserRouter>
         <Routes>
-        <Route path={`/`} element={<Home />} />
-        <Route path={`/detail/:id`} element={<Detail />} />
-        <Route path={`/list`} element={<List />} />
+        <Route path="/" element={<Home />}></Route>
+        <Route path="/detail/:id" element={<Detail />}></Route>
+        <Route path="/list" element={<List />}></Route>
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
   );
 }
 
