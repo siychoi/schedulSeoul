@@ -38,12 +38,16 @@ const NaverMap = () => {
           zoomControl: true,
           minZoom: 11,
         });
+        new window.naver.maps.Marker({
+          position: location,
+          map,
+        })
         }
       })
       .catch((error) => {
         console.error("Naver Map script load error:", error);
       });
-  }, []);
+  }, [id]);
 
   return (
     <div>
