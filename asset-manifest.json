@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://schedule.seoul.kr/scheduleSeoul/static/css/main.5181ab6a.css",
-    "main.js": "https://schedule.seoul.kr/scheduleSeoul/static/js/main.c38e329b.js",
-    "index.html": "https://schedule.seoul.kr/scheduleSeoul/index.html",
-    "main.5181ab6a.css.map": "https://schedule.seoul.kr/scheduleSeoul/static/css/main.5181ab6a.css.map",
-    "main.c38e329b.js.map": "https://schedule.seoul.kr/scheduleSeoul/static/js/main.c38e329b.js.map"
+    "main.css": "https://schedule.seoul.kr/static/css/main.5181ab6a.css",
+    "main.js": "https://schedule.seoul.kr/static/js/main.e73143cb.js",
+    "index.html": "https://schedule.seoul.kr/index.html",
+    "main.5181ab6a.css.map": "https://schedule.seoul.kr/static/css/main.5181ab6a.css.map",
+    "main.e73143cb.js.map": "https://schedule.seoul.kr/static/js/main.e73143cb.js.map"
   },
   "entrypoints": [
     "static/css/main.5181ab6a.css",
-    "static/js/main.c38e329b.js"
+    "static/js/main.e73143cb.js"
   ]
 }
